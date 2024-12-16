@@ -33,14 +33,14 @@ main {
 
 .historias {
     display: flex;
-    gap: 80px;
+    gap: 10px;
     padding: 30px 0;
 }
 
 .capitulo-historia {
     display: none;
-    min-height: 800px;
-    max-width: 700px;
+    min-height: 600px;
+    max-width: 800px;
     border-radius: 10px;
 
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
